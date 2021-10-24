@@ -3,7 +3,7 @@ iWay is a mobile application developed with the purpose of assisting people with
 
 The by-product of the STEM student-researchers of Grade-12 Resiliency from Camarines Norte Senior High School's research Study.
 
-Developer: github.com/rydancerrr/   &nbsp;
+Developer: github.com/rydancerrr/
 Ideas & Design:  STEM student-researchers of Grade-12 Resiliency
 
  Integration / Libraries :
@@ -12,7 +12,10 @@ Ideas & Design:  STEM student-researchers of Grade-12 Resiliency
   * [Firebase Storage]
   * [Camera 2]
   * [Google Map SDK]
-
+  * [FirebaseUI Database]
+  * [Firebase Notification]
+  * [Glide/Picasso]
+  
 <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/1.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/2.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/3.jpg" width="200" height="400">
 
 <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/4.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/5.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/6.jpg" width="200" height="400">

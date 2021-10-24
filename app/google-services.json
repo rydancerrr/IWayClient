@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951092575523",
+    "project_id": "iway-430fd",
+    "storage_bucket": "iway-430fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951092575523:android:d433807e2b64cf604be096",
+        "android_client_info": {
+          "package_name": "com.project.iway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951092575523-6v0ifu2girtl4045b20hrneendjrf81b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgVolhduFQ3y1otMuhzO0n1dcGaCofwL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951092575523-6v0ifu2girtl4045b20hrneendjrf81b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

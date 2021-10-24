@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iWay</string>
+    <string name="login">LOG IN</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="signup">SIGNUP</string>
+    <string name="MAPS_API_KEY">AIzaSyCyZH-m5e6XasHo2XSjs9ef0G7sX7Hhjj8</string>
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+    <string name="label_button_cta_canteen_intro" translatable="false">Get started</string>
+</resources>

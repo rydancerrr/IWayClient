@@ -4,6 +4,7 @@ iWay is a mobile application developed with the purpose of assisting people with
 The by-product of the STEM student-researchers of Grade-12 Resiliency from Camarines Norte Senior High School's research Study.
 
 Developer: github.com/rydancerrr/
+
 Ideas & Design:  STEM student-researchers of Grade-12 Resiliency
 
  Integration / Libraries :

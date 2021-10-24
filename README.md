@@ -1,4 +1,4 @@
-# WheelguidePWD
+# iWayClient
 iWay is a mobile application developed with the purpose of assisting people within the locality during emergency situations through open contact with the involved officials through utilization of its main features (i.e Crowdsourcing and geotagging) in order to report and relay information on various road or automobile incidents. 
 
 The by-product of the STEM student-researchers of Grade-12 Resiliency from Camarines Norte Senior High School's research Study.

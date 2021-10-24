@@ -6,8 +6,8 @@ The by-product of the STEM student-researchers of Grade-12 Resiliency from Camar
 Developer: github.com/rydancerrr/
 
 
-<img src="https://github.com/rydancerrr/WheelguidePWD/blob/main/master/images/1.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/WheelguidePWD/blob/main/master/images/2.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/WheelguidePWD/blob/main/master/images/3.jpg" width="200" height="400">
+<img src="https://github.com/rydancerrr/IWayClient/blob/main/master/images/1.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/master/images/2.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/master/images/3.jpg" width="200" height="400">
 
-<img src="https://github.com/rydancerrr/WheelguidePWD/blob/main/master/images/4.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/WheelguidePWD/blob/main/master/images/5.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/WheelguidePWD/blob/main/master/images/6.jpg" width="200" height="400">
+<img src="https://github.com/rydancerrr/IWayClient/blob/main/master/images/4.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/master/images/5.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/master/images/6.jpg" width="200" height="400">
 
-<img src="https://github.com/rydancerrr/WheelguidePWD/blob/main/master/images/7.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/WheelguidePWD/blob/main/master/images/9.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/WheelguidePWD/blob/main/master/images/8.jpg" width="200" height="400">
+<img src="https://github.com/rydancerrr/IWayClient/blob/main/master/images/7.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/master/images/9.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/master/images/8.jpg" width="200" height="400">

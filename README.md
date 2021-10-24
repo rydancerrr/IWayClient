@@ -6,6 +6,13 @@ The by-product of the STEM student-researchers of Grade-12 Resiliency from Camar
 Developer: github.com/rydancerrr/   &nbsp;
 Ideas & Design:  STEM student-researchers of Grade-12 Resiliency
 
+ Integration / Libraries :
+  * [Firebase Realtime Database]
+  * [Firebase Authentication]
+  * [Firebase Storage]
+  * [Camera 2]
+  * [Google Map SDK]
+
 <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/1.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/2.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/3.jpg" width="200" height="400">
 
 <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/4.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/5.jpg" width="200" height="400"> &nbsp; <img src="https://github.com/rydancerrr/IWayClient/blob/main/images/6.jpg" width="200" height="400">
